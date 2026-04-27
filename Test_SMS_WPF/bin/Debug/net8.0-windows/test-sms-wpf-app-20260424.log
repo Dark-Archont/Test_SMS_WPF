@@ -1,0 +1,6 @@
+﻿[2026-04-24 14:17:21.574] INIT: variable 'SMS_TEST_SMARTMEAL_1' was missing; set user default (length 0).
+[2026-04-24 14:17:23.844] INIT: variable 'SMS_TEST_SMARTMEAL_2' was missing; set user default (length 0).
+[2026-04-24 14:17:23.845] START: loaded 2 variable(s) from configuration.
+[2026-04-24 14:18:25.639] INIT: variable 'SMS_TEST_SMARTMEAL_1' was missing; set user default (length 0).
+[2026-04-24 14:18:27.905] INIT: variable 'SMS_TEST_SMARTMEAL_2' was missing; set user default (length 0).
+[2026-04-24 14:18:27.906] START: loaded 2 variable(s) from configuration.
